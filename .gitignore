@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Adding config.py file.
 api_keys.py
 git status
 git Add
 git commit
 git push
+=======
+# Adding api_keys.py file.
+api_keys.py
+>>>>>>> 3cecc2f5b91819862b626edf638c4d35120a592a
